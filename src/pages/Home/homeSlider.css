@@ -1,0 +1,57 @@
+.scale-75 {
+    scale: 0.75;
+}
+
+.scale-90 {
+    scale: 0.9;
+}
+
+.home-container {
+    position: relative;
+    transition: opacity 0.5s ease;
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-bottom: 7.5vh;
+}
+
+.home-container-2 {
+    position: relative;
+    transition: opacity 0.5s ease;
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 2.5vh;
+    column-gap: 2.5rem;
+}
+
+.home-container.fade {
+    opacity: 0;
+    /* Apply the fade effect when the 'fade' class is active */
+}
+
+.home-container-2.fade {
+    opacity: 0;
+    /* Apply the fade effect when the 'fade' class is active */
+}
+
+.background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.home-item-overlay {
+    border: 1px solid #f5f5f5;
+    border-radius: 10px;
+}

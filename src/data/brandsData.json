@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Titans Tea",
+        "logo": "https://res.cloudinary.com/ddd1bjkyz/image/upload/v1696849606/titans-tea-logo_1_rzloau.png",
+        "background_image": "https://res.cloudinary.com/ddd1bjkyz/image/upload/v1696843428/titans-tea-bg-2",
+        "description": "Premium tea company specializing in a wide range of tea blends.",
+        "website": "https://www.titanstea.com",
+        "founded_year": 2010,
+        "social_media": {
+            "facebook": "https://www.facebook.com/titanstea",
+            "twitter": "https://twitter.com/titanstea",
+            "instagram": "https://www.instagram.com/titanstea"
+        },
+        "translate": 50,
+        "permalink": "titans-tea"
+    },
+    {
+        "name": "Kulhad Chai",
+        "logo": "https://res.cloudinary.com/ddd1bjkyz/image/upload/v1696849607/kulhad-chai-logo_iu6hk6.png",
+        "background_image": "https://res.cloudinary.com/ddd1bjkyz/image/upload/v1696850255/nvevfvii6corwtljgog5.jpg",
+        "description": "Authentic Indian chai served in traditional clay cups (kulhad).",
+        "website": "https://www.kulhadchai.com",
+        "founded_year": 2015,
+        "social_media": {
+            "facebook": "https://www.facebook.com/kulhadchai",
+            "twitter": "https://twitter.com/kulhadchai",
+            "instagram": "https://www.instagram.com/kulhadchai"
+        },
+        "translate": 0,
+        "permalink": "kulhad-chai"
+    },
+    {
+        "name": "SilverSpur Consultancy Services",
+        "logo": "https://res.cloudinary.com/ddd1bjkyz/image/upload/v1696849605/silverspur_1_bjdugb.png",
+        "background_image": "https://res.cloudinary.com/ddd1bjkyz/image/upload/v1696843428/silver-spur-consultancy-services-background",
+        "description": "Global consultancy firm specializing in business strategy and development.",
+        "website": "https://www.silverspurconsultancy.com",
+        "founded_year": 2005,
+        "social_media": {
+            "linkedin": "https://www.linkedin.com/company/silverspur",
+            "twitter": "https://twitter.com/silverspur",
+            "instagram": "https://www.instagram.com/silverspurconsultancy"
+        },
+        "translate": -50,
+        "permalink": "silver-spur-consultancy-services"
+    }
+]
